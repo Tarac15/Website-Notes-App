@@ -23,7 +23,7 @@ Website-Notes-App is a full-stack note-taking web application built using the ME
 **Backend:**
 - Node.js
 - Express.js
-- MongoDB (Mongoose ODM)
+- MongoDB 
 - JSON Web Token (JWT) for authentication
 
 ## 📦 Installation & Running Locally
